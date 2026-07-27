@@ -62,5 +62,5 @@
 ⭐ Thanks for visiting my profile!
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006B3F,100:00C853&height=120&section=footer"/> </div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006B3F,100:00C853&height=120&section=footer"/> </div> 
 
