@@ -21,7 +21,6 @@
 
 ## 👨‍💻 About Me
 
-```typescript
 const nisal = {
     role: "Software Engineer",
     education: "BSc (Hons) Computer Science",
