@@ -16,17 +16,20 @@
 
 </div>
 
-
+<div align="center">
 
 🛠 Tech Stack
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,next,typescript,javascript,html,css,tailwind,bootstrap" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,java" />
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,gcp,docker" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" /> </div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </div>
 
-
+<div align="center">
+  
 🏆 Achievements & Certifications
+
 <a href="https://www.credly.com/badges/ee1f6acd-3676-4f98-9956-125d38936d80/public_url">
 <img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120"/>
 </a> 
@@ -44,6 +47,7 @@
 </a> 
 
 📫 Connect With Me
+
 <div align="center"> <a href="https://www.linkedin.com/in/nisal-wijethunge/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> <a href="mailto:nisalwijethunge@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> </div>
 
 <div align="center">
