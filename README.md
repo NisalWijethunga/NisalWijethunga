@@ -18,7 +18,9 @@
 
 <div align="center">
 
+
 🛠 Tech Stack
+
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,next,typescript,javascript,html,css,tailwind,bootstrap" />
@@ -27,8 +29,10 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </div>
 
 <div align="center">
+
   
 🏆 Achievements & Certifications
+
 
 <a href="https://www.credly.com/badges/ee1f6acd-3676-4f98-9956-125d38936d80/public_url">
 <img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120"/>
@@ -46,11 +50,17 @@
 <img src="https://images.credly.com/size/680x680/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="120"/>
 </a> 
 
+
 📫 Connect With Me
+
 
 <div align="center"> <a href="https://www.linkedin.com/in/nisal-wijethunge/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> <a href="mailto:nisalwijethunge@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> </div>
 
 <div align="center">
+
+  
 ⭐ Thanks for visiting my profile!
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006B3F,100:00C853&height=120&section=footer"/> </div> ```
 
