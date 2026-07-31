@@ -28,7 +28,9 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,docker" />
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </div>
 
+
 <div align="center">
+
 
   
 🏆 Achievements & Certifications
@@ -49,6 +51,10 @@
 <a href="https://www.credly.com/badges/b642ea91-149f-49b7-88ad-813ad25eb7f9/public_url">
 <img src="https://images.credly.com/size/680x680/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="120"/>
 </a> 
+<a href="https://leetcode.com/medal/?showImg=0&id=10602581&isLevel=false">
+<img src="https://assets.leetcode.com/static_assets/marketing/7.gif" width="120"/>
+</a>
+
 
 
 📫 Connect With Me
@@ -57,6 +63,7 @@
 <div align="center"> <a href="https://www.linkedin.com/in/nisal-wijethunge/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> <a href="mailto:nisalwijethunge@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> </div>
 
 <div align="center">
+
 
   
 ⭐ Thanks for visiting my profile!
