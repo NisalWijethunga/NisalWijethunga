@@ -12,7 +12,7 @@
 
 ### 🚀  Software Engineer | Full Stack Developer 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Node.js+Developer;React+Native+Mobile+App+Developer;MERN+Stack+Enthusiast;Building+Scalable+Software+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Node.js+Developer;React+Native+Mobile+App+Developer;MERN+Stack+Enthusiast;Computer+Science+Graduate" />
 
 </div>
 
